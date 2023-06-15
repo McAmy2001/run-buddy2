@@ -12,3 +12,5 @@ https://McAmy2001.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by Amy McCabe
+
+### ©️2019 Run Buddy, Inc 
